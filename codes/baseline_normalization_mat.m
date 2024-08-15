@@ -1,5 +1,4 @@
 function bn_sig = baseline_normalization_mat(sig, t_baseline, Fs)
-    % Armin Panjehpour - Aug 2022
     % baseline normalization on a matrix according to the
     % t_basline, (n_freqs(or trials), nsamples)
     
