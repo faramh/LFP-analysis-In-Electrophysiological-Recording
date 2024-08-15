@@ -1,5 +1,4 @@
 function [wt, f] = cal_cwt(data, wname, Fs, disp_size, cond, start, endd)
-    % Armin Panjehpour - Aug 2022
     % cal cwt of a data with n_trials*n_sample and average over all
     % trials
     wt = 0;
